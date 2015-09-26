@@ -1,0 +1,17 @@
+{
+	"discounts": 
+	[
+		{
+			"Seller": "Kex Hostel",
+			"Discount": "15%",
+			"Type": "Food & Drinks"
+		},	
+		{
+			"Seller": "Lemon",
+			"Discount": "10%",
+			"Type": "Food & Drinks"
+		}
+
+
+	]
+}
