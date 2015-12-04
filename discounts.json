@@ -1,19 +1,77 @@
 {
-	"discounts": 
+	"discounts":
 	[
 		{
 			"Seller": "Kex Hostel",
 			"Discount": "15%",
 			"Type": "Food & Drinks",
 			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},	
+		},
+		{
+			"Seller": "Lemon",
+			"Discount": "10%",
+			"Type": "Food & Drinks",
+			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		},
+		{
+			"Seller": "Kex Hostel",
+			"Discount": "15%",
+			"Type": "Food & Drinks",
+			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		},
+		{
+			"Seller": "Lemon",
+			"Discount": "10%",
+			"Type": "Food & Drinks",
+			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		},
+		{
+			"Seller": "Kex Hostel",
+			"Discount": "15%",
+			"Type": "Food & Drinks",
+			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		},
+		{
+			"Seller": "Lemon",
+			"Discount": "10%",
+			"Type": "Food & Drinks",
+			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		},
+		{
+			"Seller": "Kex Hostel",
+			"Discount": "15%",
+			"Type": "Food & Drinks",
+			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		},
+		{
+			"Seller": "Lemon",
+			"Discount": "10%",
+			"Type": "Food & Drinks",
+			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		},
+		{
+			"Seller": "Kex Hostel",
+			"Discount": "15%",
+			"Type": "Food & Drinks",
+			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		},
+		{
+			"Seller": "Lemon",
+			"Discount": "10%",
+			"Type": "Food & Drinks",
+			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		},
+		{
+			"Seller": "Kex Hostel",
+			"Discount": "15%",
+			"Type": "Food & Drinks",
+			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		},
 		{
 			"Seller": "Lemon",
 			"Discount": "10%",
 			"Type": "Food & Drinks",
 			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
 		}
-
-
 	]
 }
