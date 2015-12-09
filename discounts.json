@@ -6,8 +6,8 @@
 			"Discount": "15%",
 			"Type": "Food & Drinks",
 			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png",
-			"location": "Skúlagata 12, 101 Rvk",
-			"extra_info": "Only on food"
+			"Location": "Skúlagata 12, 101 Rvk",
+			"ExtraInfo": "Only on food"
 		},
 		{
 			"Seller": "Lemon",
