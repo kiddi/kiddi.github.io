@@ -2,246 +2,148 @@
 	"discounts":
 	[
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png",
-			"Location": "Skúlagata 12, 101 Rvk",
-			"ExtraInfo": "Only on food"
+		  "place":"Vegamót",
+		  "discount":"15%",
+		  "extraInfo":"Off lunch on weekdays",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/vegamot.png"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Kol Restaurant",
+		  "discount":"10%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/kol_restaurant.png"
 		},
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Public House",
+		  "discount":"15%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/public_house.png"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Osushi The Train",
+		  "discount":"15%",
+		  "extraInfo":"Weekdays between 11:30 and 14:00",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/osushi.png"
 		},
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Eldsmiðjan",
+		  "discount":"15%",
+		  "extraInfo":"Off pickup and delivery",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/eldsmidjan.png"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Nora Magasín",
+		  "discount":"15%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/nora_magasin.jpg"
 		},
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Sushi Samba",
+		  "discount":"15%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/sushi_samba.png"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Kex Hostel (bar and restaurant)",
+		  "discount":"15%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/annaranna.png"
 		},
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Hverfisgata 12 (The Hidden Pizzaplace)",
+		  "discount":"15%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/maggi.png"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Mikkeller & Friends",
+		  "discount":"15%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/mikkeller.png"
 		},
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Gamla Smiðjan",
+		  "discount":"15%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/gamla_smidjan.png"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Dominos",
+		  "discount":"30%",
+		  "extraInfo":"Use code PVANILLA online",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/dominos.png"
 		},
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Grillmarkaðurinn",
+		  "discount":"10%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/grill_market.png"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Lemon",
+		  "discount":"10%",
+		  "extraInfo":"Only on Laugavegur",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/lemon.jpg"
 		},
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Fiskmarkaðurinn",
+		  "discount":"10%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/fish_market.png"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"JÖR",
+		  "discount":"15%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/maggi.png"
 		},
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Tölvutek",
+		  "discount":"5-20%",
+		  "extraInfo":"Depends on product.",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/tolvutek.jpg"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Macland",
+		  "discount":"5%",
+		  "extraInfo":"5% off iPhone and iPad. 7% everything else. -3% if paid with credit.",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/macland.png"
 		},
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Alda",
+		  "discount":"20%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/maggi.png"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Húrra Reykjavík",
+		  "discount":"10%",
+		  "extraInfo":"Off everything",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/hurra_reykjavik.jpg"
 		},
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Vínsmakkarinn ",
+		  "discount":"",
+		  "extraInfo":"Few special offers.",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/vinsmakkarinn.jpg"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Barber bar",
+		  "discount":"20%",
+		  "extraInfo":"20% off",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/barber_bar.png"
 		},
 		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Te og kaffi (only L77)",
+		  "discount":"15%",
+		  "extraInfo":"15% off",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/te_og_kaffi.png"
 		},
 		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Lemon",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "Kex Hostel",
-			"Discount": "15%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
-		},
-		{
-			"Seller": "McDonalds",
-			"Discount": "10%",
-			"Type": "Food & Drinks",
-			"logo": "https://pbs.twimg.com/profile_images/1286413365/Logos_finalisation-07.png"
+		  "place":"Annaranna",
+		  "discount":"10%",
+		  "extraInfo":"10% off",
+		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/annaranna.png"
 		}
 	]
 }
