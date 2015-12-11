@@ -44,13 +44,13 @@
 		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/sushi_samba.png"
 		},
 		{
-		  "place":"Kex Hostel (bar and restaurant)",
+		  "place":"Kex Hostel",
 		  "discount":"15%",
 		  "extraInfo":"Off everything",
 		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/annaranna.png"
 		},
 		{
-		  "place":"Hverfisgata 12 (The Hidden Pizzaplace)",
+		  "place":"Hverfisgata 12",
 		  "discount":"15%",
 		  "extraInfo":"Off everything",
 		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/maggi.png"
@@ -105,8 +105,8 @@
 		},
 		{
 		  "place":"Macland",
-		  "discount":"5%",
-		  "extraInfo":"5% off iPhone and iPad. 7% everything else. -3% if paid with credit.",
+		  "discount":"5-7%",
+		  "extraInfo":"-3% on Credit cards",
 		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/macland.png"
 		},
 		{
@@ -123,26 +123,26 @@
 		},
 		{
 		  "place":"Vínsmakkarinn ",
-		  "discount":"",
+		  "discount":"N/A",
 		  "extraInfo":"Few special offers.",
 		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/vinsmakkarinn.jpg"
 		},
 		{
 		  "place":"Barber bar",
 		  "discount":"20%",
-		  "extraInfo":"20% off",
+		  "extraInfo":"Off everything",
 		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/barber_bar.png"
 		},
 		{
-		  "place":"Te og kaffi (only L77)",
+		  "place":"Te og kaffi",
 		  "discount":"15%",
-		  "extraInfo":"15% off",
+		  "extraInfo":"Only at L77",
 		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/te_og_kaffi.png"
 		},
 		{
 		  "place":"Annaranna",
 		  "discount":"10%",
-		  "extraInfo":"10% off",
+		  "extraInfo":"Off everything",
 		  "logo":"https://dl.dropboxusercontent.com/u/46646056/quizup-staff-logos/annaranna.png"
 		}
 	]
